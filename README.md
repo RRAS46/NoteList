@@ -9,10 +9,6 @@ Notelist is a lightweight and user-friendly note-taking app designed for managin
 - **Task Management**: Add, edit, and delete notes and tasks.
 - **Real-Time Updates**: Notes reflect changes immediately for smooth use.
 
-## Screenshots
-
-![Notelist Screenshot](path/to/screenshot.png)  
-*Screenshot showing the main interface of Notelist.*
 
 ## Installation
 
